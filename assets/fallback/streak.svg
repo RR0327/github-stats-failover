@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="495"
+     height="195"
+     viewBox="0 0 495 195"
+     role="img"
+     aria-label="Contribution streak for RR0327">
+  <rect x="0.5" y="0.5"
+        width="494" height="194"
+        rx="8"
+        fill="#ffffff"
+        stroke="#d0d7de"/>
+  <style>
+    .title {
+      font: 700 20px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+      fill: #24292f;
+    }
+    .label {
+      font: 500 13px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+      fill: #57606a;
+    }
+    .value {
+      font: 700 22px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+      fill: #0969da;
+    }
+    .small {
+      font: 400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+      fill: #8c959f;
+    }
+  </style>
+  <text x="24" y="38" class="title">GitHub Contribution Streak</text>
+  <text x="24" y="59" class="label">
+    @RR0327 · rolling 2025-06-26 to 2026-07-30
+  </text>
+
+  <text x="43" y="107" class="value">271</text>
+  <text x="43" y="130" class="label">Contributions</text>
+
+  <text x="207" y="107" class="value">3</text>
+  <text x="207" y="130" class="label">Current streak</text>
+
+  <text x="365" y="107" class="value">19</text>
+  <text x="365" y="130" class="label">Longest streak</text>
+
+  <line x1="24" y1="149" x2="471" y2="149" stroke="#eaeef2"/>
+  <text x="24" y="172" class="small">
+    68 active days · Updated 2026-07-30 20:49 +06
+  </text>
+</svg>
