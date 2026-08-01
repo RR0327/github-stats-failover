@@ -45,10 +45,10 @@
   <text x="24" y="104" class="label">HTML</text>
   <rect x="170" y="93" width="250" height="9"
         rx="4.5" fill="#eaeef2"/>
-  <rect x="170" y="93" width="64.6" height="9"
+  <rect x="170" y="93" width="64.7" height="9"
         rx="4.5" fill="#0969da"/>
   <text x="470" y="104" text-anchor="end" class="label">
-    25.8%
+    25.9%
   </text>
 
   <text x="24" y="130" class="label">Python</text>
@@ -88,6 +88,6 @@
   </text>
 
   <text x="24" y="243" class="small">
-    Updated 2026-08-01 19:57 +06
+    Updated 2026-08-02 01:35 +06
   </text>
 </svg>
