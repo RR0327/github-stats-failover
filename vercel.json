@@ -2,9 +2,7 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
     "api/index.py": {
-      "includeFiles": [
-        "assets/fallback/**"
-      ],
+      "includeFiles": "assets/fallback/**",
       "maxDuration": 30
     }
   }
