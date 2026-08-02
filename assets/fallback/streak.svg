@@ -29,7 +29,7 @@
   </style>
   <text x="24" y="38" class="title">GitHub Contribution Streak</text>
   <text x="24" y="59" class="label">
-    @RR0327 · rolling 2025-06-29 to 2026-08-02
+    @RR0327 · rolling 2025-06-30 to 2026-08-03
   </text>
 
   <text x="43" y="107" class="value">278</text>
@@ -43,6 +43,6 @@
 
   <line x1="24" y1="149" x2="471" y2="149" stroke="#eaeef2"/>
   <text x="24" y="172" class="small">
-    71 active days · Updated 2026-08-02 19:57 +06
+    71 active days · Updated 2026-08-03 01:36 +06
   </text>
 </svg>
