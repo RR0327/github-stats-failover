@@ -36,34 +36,34 @@
   <text x="24" y="78" class="label">Python</text>
   <rect x="170" y="67" width="250" height="9"
         rx="4.5" fill="#eaeef2"/>
-  <rect x="170" y="67" width="83.6" height="9"
+  <rect x="170" y="67" width="84.9" height="9"
         rx="4.5" fill="#0969da"/>
   <text x="470" y="78" text-anchor="end" class="label">
-    33.4%
+    34.0%
   </text>
 
   <text x="24" y="104" class="label">Jupyter Notebook</text>
   <rect x="170" y="93" width="250" height="9"
         rx="4.5" fill="#eaeef2"/>
-  <rect x="170" y="93" width="58.8" height="9"
+  <rect x="170" y="93" width="58.2" height="9"
         rx="4.5" fill="#0969da"/>
   <text x="470" y="104" text-anchor="end" class="label">
-    23.5%
+    23.3%
   </text>
 
   <text x="24" y="130" class="label">HTML</text>
   <rect x="170" y="119" width="250" height="9"
         rx="4.5" fill="#eaeef2"/>
-  <rect x="170" y="119" width="49.8" height="9"
+  <rect x="170" y="119" width="49.3" height="9"
         rx="4.5" fill="#0969da"/>
   <text x="470" y="130" text-anchor="end" class="label">
-    19.9%
+    19.7%
   </text>
 
   <text x="24" y="156" class="label">JavaScript</text>
   <rect x="170" y="145" width="250" height="9"
         rx="4.5" fill="#eaeef2"/>
-  <rect x="170" y="145" width="21.7" height="9"
+  <rect x="170" y="145" width="21.8" height="9"
         rx="4.5" fill="#0969da"/>
   <text x="470" y="156" text-anchor="end" class="label">
     8.7%
@@ -72,22 +72,22 @@
   <text x="24" y="182" class="label">TeX</text>
   <rect x="170" y="171" width="250" height="9"
         rx="4.5" fill="#eaeef2"/>
-  <rect x="170" y="171" width="19.5" height="9"
+  <rect x="170" y="171" width="19.3" height="9"
         rx="4.5" fill="#0969da"/>
   <text x="470" y="182" text-anchor="end" class="label">
-    7.8%
+    7.7%
   </text>
 
   <text x="24" y="208" class="label">CSS</text>
   <rect x="170" y="197" width="250" height="9"
         rx="4.5" fill="#eaeef2"/>
-  <rect x="170" y="197" width="8.0" height="9"
+  <rect x="170" y="197" width="7.9" height="9"
         rx="4.5" fill="#0969da"/>
   <text x="470" y="208" text-anchor="end" class="label">
-    3.2%
+    3.1%
   </text>
 
   <text x="24" y="243" class="small">
-    Updated 2026-11-15 04:28 +06
+    Updated 2026-11-15 12:37 +06
   </text>
 </svg>
